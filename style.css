@@ -1,0 +1,39 @@
+<style>  
+h1{
+  font-family: Tahoma
+}
+#descrição1{
+  font-family: sans-serif;
+  }
+.meunome{
+  color: rgb(117, 32, 32);
+}  
+body{
+  background-color: rgba(248, 152, 7, 0.61);
+  text-align: center;
+}
+.habpag{
+  text-align: left;
+}
+li{
+  text-align: left;
+}       
+.habpag{
+  
+  font-size: 21px; 
+}
+li:hover{
+  background-color: rgb(117, 32, 32);  
+}
+li:active{
+  background-color:whitesmoke;
+}
+#minha-foto{
+  float: center;
+  height: 250px;
+  padding: 5px;
+  border-radius: 50px;
+  background-color: rgb(117, 32, 32);
+}
+
+</style>
